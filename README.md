@@ -17,7 +17,7 @@ Feito por Danielle Lima da Silva - 2222130001
 
 ```bash
 git clone https://github.com/DLS404/Projeto3-4.git
-cd my-app
+cd react
 npm install
 npm run dev
 ```
