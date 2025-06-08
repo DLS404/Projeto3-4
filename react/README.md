@@ -20,7 +20,9 @@ git clone https://github.com/DLS404/Projeto3-4.git
 cd my-app
 npm install
 npm run dev
+```
 
+## Estruturas
 src/
 ├── components/      # Componentes reutilizáveis
 ├── context/         # Context API para estado global
