@@ -23,6 +23,8 @@ npm run dev
 ```
 
 ## Estruturas
+
+```bash
 src/
 ├── components/      # Componentes reutilizáveis
 ├── context/         # Context API para estado global
