@@ -1,4 +1,4 @@
-# React Vite Cadastro App
+# Site feito com Vite + React
 
 Este é um projeto de cadastro simples com React + Vite.
 
